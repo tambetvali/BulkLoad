@@ -1,4 +1,7 @@
 # BulkLoad — Logic Collisions, Symbolic Accusations, and the Death of Coherence  
+
+[play it online!](https://app-by9gm7mu9ssh.appmedo.com/) - bulk load
+
 ### A Repository on Material Logic, Goal‑Based Logic, and the Strange Games Humans Play
 
 BulkLoad is a collection of essays, narratives, and conceptual tools exploring what happens when **material logic** and **goal‑based logic (GBL)** collide.  
